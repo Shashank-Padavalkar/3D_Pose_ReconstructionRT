@@ -1,0 +1,6 @@
+node_modules/
+dist/
+coverage/
+public/models/
+public/wasm/
+package-lock.json
